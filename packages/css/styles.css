@@ -1328,3 +1328,18 @@ img {
     grid-template-columns: repeat(2, 1fr);
   }
 }
+.about__container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.about__data {
+  text-align: center;
+}
+
+.about__buttons {
+  display: flex;
+  justify-content: center;
+}
+
